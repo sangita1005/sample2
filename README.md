@@ -4,24 +4,24 @@
 
 ## Features
 - Search weather by city name
-- Displays temperature, humidity, and weather conditions
+- Displays temperature, humidity and weather conditions.
 - Fetches real-time data from OpenWeather API
-- Built using **React & Vite**
 
 ## Installation
 ```
-   git clone https://github.com/your-username/weather-now.git && cd weather-now
+   git clone https://github.com/dikshaa05/WeatherNow.git && cd WeatherNow
 ```
 ```
    npm install
 ```
-```
+
    **Create a `.env` file in the root directory and add**
-```
+
 ```
    VITE_OPENWEATHER_API_KEY=your_api_key_here
 ```
 ```
    npm run dev
 ```
+
 
