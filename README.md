@@ -10,15 +10,15 @@
 
 ## Installation
 
-1️⃣ Clone the repository:  
+Clone the repository:  
    ```bash
    git clone https://github.com/your-username/weather-now.git && cd weather-now
    ```
-2️⃣ Install dependencies:  
+Install dependencies:  
    ```bash
    npm install
    ```
-3️⃣ Create a `.env` file in the root directory and add:  
+Create a `.env` file in the root directory and add:  
    ```ini
    VITE_OPENWEATHER_API_KEY=your_api_key_here
    ```
